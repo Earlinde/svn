@@ -1,0 +1,6 @@
+d:\迅雷下载\my documents\visual studio 2015\Projects\Objectoriented1\Objectoriented1\bin\Debug\Objectoriented1.exe.config
+d:\迅雷下载\my documents\visual studio 2015\Projects\Objectoriented1\Objectoriented1\bin\Debug\Objectoriented1.exe
+d:\迅雷下载\my documents\visual studio 2015\Projects\Objectoriented1\Objectoriented1\bin\Debug\Objectoriented1.pdb
+d:\迅雷下载\my documents\visual studio 2015\Projects\Objectoriented1\Objectoriented1\obj\Debug\Objectoriented1.csprojResolveAssemblyReference.cache
+d:\迅雷下载\my documents\visual studio 2015\Projects\Objectoriented1\Objectoriented1\obj\Debug\Objectoriented1.exe
+d:\迅雷下载\my documents\visual studio 2015\Projects\Objectoriented1\Objectoriented1\obj\Debug\Objectoriented1.pdb

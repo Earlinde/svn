@@ -1,0 +1,6 @@
+d:\迅雷下载\my documents\visual studio 2015\Projects\expression1\expression1\bin\Debug\expression1.exe.config
+d:\迅雷下载\my documents\visual studio 2015\Projects\expression1\expression1\obj\Debug\expression1.csprojResolveAssemblyReference.cache
+d:\迅雷下载\my documents\visual studio 2015\Projects\expression1\expression1\bin\Debug\expression1.exe
+d:\迅雷下载\my documents\visual studio 2015\Projects\expression1\expression1\bin\Debug\expression1.pdb
+d:\迅雷下载\my documents\visual studio 2015\Projects\expression1\expression1\obj\Debug\expression1.exe
+d:\迅雷下载\my documents\visual studio 2015\Projects\expression1\expression1\obj\Debug\expression1.pdb

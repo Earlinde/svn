@@ -1,0 +1,6 @@
+d:\迅雷下载\my documents\visual studio 2015\Projects\generic_test\generic_test\bin\Debug\generic_test.exe.config
+d:\迅雷下载\my documents\visual studio 2015\Projects\generic_test\generic_test\bin\Debug\generic_test.exe
+d:\迅雷下载\my documents\visual studio 2015\Projects\generic_test\generic_test\bin\Debug\generic_test.pdb
+d:\迅雷下载\my documents\visual studio 2015\Projects\generic_test\generic_test\obj\Debug\generic_test.csprojResolveAssemblyReference.cache
+d:\迅雷下载\my documents\visual studio 2015\Projects\generic_test\generic_test\obj\Debug\generic_test.exe
+d:\迅雷下载\my documents\visual studio 2015\Projects\generic_test\generic_test\obj\Debug\generic_test.pdb

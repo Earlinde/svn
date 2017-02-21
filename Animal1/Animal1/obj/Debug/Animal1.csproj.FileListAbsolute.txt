@@ -1,0 +1,6 @@
+d:\迅雷下载\my documents\visual studio 2015\Projects\Animal1\Animal1\bin\Debug\Animal1.exe.config
+d:\迅雷下载\my documents\visual studio 2015\Projects\Animal1\Animal1\bin\Debug\Animal1.exe
+d:\迅雷下载\my documents\visual studio 2015\Projects\Animal1\Animal1\bin\Debug\Animal1.pdb
+d:\迅雷下载\my documents\visual studio 2015\Projects\Animal1\Animal1\obj\Debug\Animal1.csprojResolveAssemblyReference.cache
+d:\迅雷下载\my documents\visual studio 2015\Projects\Animal1\Animal1\obj\Debug\Animal1.exe
+d:\迅雷下载\my documents\visual studio 2015\Projects\Animal1\Animal1\obj\Debug\Animal1.pdb

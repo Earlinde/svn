@@ -1,0 +1,6 @@
+d:\迅雷下载\my documents\visual studio 2015\Projects\Anominous1\Anominous1\bin\Debug\Anominous1.exe.config
+d:\迅雷下载\my documents\visual studio 2015\Projects\Anominous1\Anominous1\bin\Debug\Anominous1.exe
+d:\迅雷下载\my documents\visual studio 2015\Projects\Anominous1\Anominous1\bin\Debug\Anominous1.pdb
+d:\迅雷下载\my documents\visual studio 2015\Projects\Anominous1\Anominous1\obj\Debug\Anominous1.csprojResolveAssemblyReference.cache
+d:\迅雷下载\my documents\visual studio 2015\Projects\Anominous1\Anominous1\obj\Debug\Anominous1.exe
+d:\迅雷下载\my documents\visual studio 2015\Projects\Anominous1\Anominous1\obj\Debug\Anominous1.pdb

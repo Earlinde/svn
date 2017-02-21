@@ -1,0 +1,6 @@
+d:\迅雷下载\my documents\visual studio 2015\Projects\sugar1\sugar1\bin\Debug\sugar1.exe.config
+d:\迅雷下载\my documents\visual studio 2015\Projects\sugar1\sugar1\bin\Debug\sugar1.exe
+d:\迅雷下载\my documents\visual studio 2015\Projects\sugar1\sugar1\bin\Debug\sugar1.pdb
+d:\迅雷下载\my documents\visual studio 2015\Projects\sugar1\sugar1\obj\Debug\sugar1.csprojResolveAssemblyReference.cache
+d:\迅雷下载\my documents\visual studio 2015\Projects\sugar1\sugar1\obj\Debug\sugar1.exe
+d:\迅雷下载\my documents\visual studio 2015\Projects\sugar1\sugar1\obj\Debug\sugar1.pdb

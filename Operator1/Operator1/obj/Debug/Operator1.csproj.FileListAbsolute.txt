@@ -1,0 +1,6 @@
+d:\迅雷下载\my documents\visual studio 2015\Projects\Operator1\Operator1\bin\Debug\Operator1.exe.config
+d:\迅雷下载\my documents\visual studio 2015\Projects\Operator1\Operator1\bin\Debug\Operator1.exe
+d:\迅雷下载\my documents\visual studio 2015\Projects\Operator1\Operator1\bin\Debug\Operator1.pdb
+d:\迅雷下载\my documents\visual studio 2015\Projects\Operator1\Operator1\obj\Debug\Operator1.csprojResolveAssemblyReference.cache
+d:\迅雷下载\my documents\visual studio 2015\Projects\Operator1\Operator1\obj\Debug\Operator1.exe
+d:\迅雷下载\my documents\visual studio 2015\Projects\Operator1\Operator1\obj\Debug\Operator1.pdb

@@ -7,3 +7,6 @@ D:\迅雷下载\My Documents\Visual Studio 2015\Projects\ChangeCharInFile2\Chang
 D:\迅雷下载\My Documents\Visual Studio 2015\Projects\ChangeCharInFile2\ChangeCharInFile2\obj\Debug\ChangeCharInFile2.csproj.GenerateResource.Cache
 D:\迅雷下载\My Documents\Visual Studio 2015\Projects\ChangeCharInFile2\ChangeCharInFile2\obj\Debug\ChangeCharInFile2.exe
 D:\迅雷下载\My Documents\Visual Studio 2015\Projects\ChangeCharInFile2\ChangeCharInFile2\obj\Debug\ChangeCharInFile2.pdb
+D:\svnwc\trunk\ChangeCharInFile2\ChangeCharInFile2\bin\Debug\ChangeCharInFile2.exe.config
+D:\svnwc\trunk\ChangeCharInFile2\ChangeCharInFile2\obj\Debug\ChangeCharInFile2.exe
+D:\svnwc\trunk\ChangeCharInFile2\ChangeCharInFile2\obj\Debug\ChangeCharInFile2.pdb
